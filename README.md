@@ -4,6 +4,7 @@
 
 The goal of this project is to increase the number of flame effects in the festival circuit. We'd like to make flame effects as easy to work with as LEDs, both for personal decoration and large scale art.
 
+This repository documents the *process* as well as the *results* of my exploration, thus is contains plenty of work product produced along the way. Things like hand-sketched circuit diagrams, code snippets, and experiments.
 
 ## Disclaimer: Thar be dragons ahead laddy!
 
@@ -30,8 +31,7 @@ Do your research before getting into flame effects. Start here!
 
 **Safety and Building Codes**
 - Burning Man [FAST Regulations](https://burningman.org/event/art-performance/fire-art-guidelines/approval-process-for-fire-art/) and [Flame Effect Guidelines](https://burningman.org/event/art-performance/fire-art-guidelines/flame-effects/)
-- [NFPA 58 "Liquified Petroleum Gas Code"](http://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards/detail?code=58) and [NFPA 16 "Standards for the Use of Flame Effects Before an Audience"](http://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards/detail?code=160)
-
+- [NFPA 58 "Liquified Petroleum Gas Code"](http://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards/detail?code=58) and [NFPA 16 "Standards for the Use of Flame Effects Before an Audience"](http://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards/detail?code=160) (Why do you have to register to get these?! and you're not allowed to download them?!!)
 
 **Suppliers**
 - http://www.poofersupply.com/
