@@ -31,7 +31,7 @@ Do your research before getting into flame effects. Start here!
 **Safety and Building Codes**
 - Burning Man [FAST Regulations](https://burningman.org/event/art-performance/fire-art-guidelines/approval-process-for-fire-art/) and [Flame Effect Guidelines](https://burningman.org/event/art-performance/fire-art-guidelines/flame-effects/)
 - [NFPA 58 "Liquified Petroleum Gas Code"](http://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards/detail?code=58) and [NFPA 16 "Standards for the Use of Flame Effects Before an Audience"](http://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards/detail?code=160)
--
+
 
 **Suppliers**
 - http://www.poofersupply.com/
