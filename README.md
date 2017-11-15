@@ -47,3 +47,9 @@ Do your research before getting into flame effects. Start here!
 - [Arsonic Creations](http://www.arsoniccreations.com/)
 - [FlameThrower Gallery](http://www.matisse.net/flamethrower/)
 - [Thor Productions](http://thorproductions.com/thor/photos.html)
+
+**Snippets**
+- [High-Power Control: Arduino + N-Channel MOSFET
+Monday, March 5	th , 2012](http://bildr.org/2012/03/rfp30n06le-arduino/)
+
+
