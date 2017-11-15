@@ -20,4 +20,4 @@ I'm deeply indebted to the many members of the Burning Man community that contin
 - Use solenoids with VITON seals (type of material).
 - Leak test using soapy water.
 - Union couplings make for easy assembly/disassembly.
-
+- You need some way to keep tanks warm. Passive temperature stabilization by placing fuel tanks in water buckets works okay. Active heating usig propane-specific heater blankets is more expensive but works better and is more mobile.
