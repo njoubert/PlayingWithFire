@@ -17,7 +17,7 @@ I'm deeply indebted to the many members of the Burning Man community that contin
 - Yellow LP-compatible ("Gas Line") Sealant Tape
 - NPT pipe thickness has a nominal and actual diameter that's not the same. 3/4" pipe measures closer to 1".
 - Use a single ball valve on flame effect as emergency fuel supply shutoff valve.  
-- VITON seals in solenoids.
+- Use solenoids with VITON seals (type of material).
 - Leak test using soapy water.
 - Union couplings make for easy assembly/disassembly.
 
