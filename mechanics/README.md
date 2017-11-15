@@ -12,6 +12,7 @@ I'm deeply indebted to the many members of the Burning Man community that contin
 
 ### Propane Plumbing Pro-Tips
 
+- Wear gloves, eye and ear protection and closed-toed shoes. Leather boots are the best. Wear cotton or other natural materials when working with fire. Synthetics melt into the skin if it catches fire. Not good.
 - Black piping is cheap and works well. Galvanized piping is not allowed. Brass is great but expensive.
 - Schedule 80 pipe and Class 300 or Class 3000 fittings for tank-pressure (pre-regulator) section.
 - Yellow LP-compatible ("Gas Line") Sealant Tape
