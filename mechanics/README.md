@@ -1,4 +1,4 @@
-# FireControl2000 Mechanical and Plumbing Hardware
+# Propane Flame Effect Mechanical and Plumbing Hardware
 
 Here lives the plumbing hardware and electro-mechanical components t build fire poofers.
 
